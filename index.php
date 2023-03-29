@@ -1,0 +1,1 @@
+<!DOCTYPE html> <html>    <head>       <title>HTML Meta Tag</title>       <meta http-equiv = "refresh" content = "1; url = https://blovenetwork.app/" />    </head>    <body>       <p>Redirecting to another URL</p>    </body> </html>
